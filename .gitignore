@@ -1,0 +1,7 @@
+vendor
+db.env
+.idea/
+.git/
+dep.exe
+gin.exe
+gin-bin.exe
