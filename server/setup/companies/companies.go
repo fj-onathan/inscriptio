@@ -2,7 +2,7 @@ package companies
 
 import (
 	"github.com/gin-gonic/gin"
-	"mailserver/libraries/middlewares"
+	"inscriptio/libraries/middlewares"
 )
 
 // ApplyRoutes applies router to the gin Engine

@@ -2,7 +2,7 @@ package models
 
 import (
 	"github.com/jinzhu/gorm"
-	"mailserver/libraries/common"
+	"inscriptio/libraries/common"
 )
 
 // Company data model

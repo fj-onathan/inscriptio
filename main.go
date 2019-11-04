@@ -1,13 +1,13 @@
 package main
 
 import (
-	"mailserver/database"
+	"inscriptio/database"
 	"os"
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
-	"mailserver/server"
-	"mailserver/libraries/middlewares"
+	"inscriptio/server"
+	"inscriptio/libraries/middlewares"
 )
 
 func main() {

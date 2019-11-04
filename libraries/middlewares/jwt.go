@@ -9,8 +9,8 @@ import (
 
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
-	"mailserver/database/models"
-	"mailserver/libraries/common"
+	"inscriptio/database/models"
+	"inscriptio/libraries/common"
 )
 
 var secretKey []byte

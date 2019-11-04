@@ -3,8 +3,8 @@ package companies
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
-	"mailserver/database/models"
-	"mailserver/libraries/common"
+	"inscriptio/database/models"
+	"inscriptio/libraries/common"
 	"net/http"
 )
 

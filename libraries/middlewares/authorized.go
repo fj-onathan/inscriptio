@@ -4,7 +4,7 @@ import (
 	_ "fmt"
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
-	"mailserver/database/models"
+	"inscriptio/database/models"
 	"net/http"
 )
 

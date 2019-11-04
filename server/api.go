@@ -2,8 +2,8 @@ package api
 
 import (
 	"github.com/gin-gonic/gin"
-	"mailserver/server/api"
-	"mailserver/server/setup"
+	"inscriptio/server/api"
+	"inscriptio/server/setup"
 	"net/http"
 )
 

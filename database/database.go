@@ -6,7 +6,7 @@ import (
 
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql" // configures mysql driver
-	"mailserver/database/models"
+	"inscriptio/database/models"
 )
 
 // Initialize initializes the database

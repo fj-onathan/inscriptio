@@ -45,6 +45,6 @@
   version = "3.2.0"
 
 [metadata.heroku]
-  root-package = "mailserver"
+  root-package = "inscriptio"
   go-version = "1.12.1"
   install = [ "." ]

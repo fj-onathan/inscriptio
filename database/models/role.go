@@ -1,8 +1,8 @@
 package models
 
 import (
-	"api-fuology/libraries/common"
 	"github.com/jinzhu/gorm"
+	"inscriptio/libraries/common"
 )
 
 // Role data model
@@ -22,7 +22,7 @@ func (u *Role) Serialize() common.JSON {
 
 // Read role data
 func (p *Role) Read() common.JSON {
-	return common.JSON{
+	return common.JSON {
 		"id":    p.ID,
 		"name":  p.Name,
 		"users": p.Statistics,

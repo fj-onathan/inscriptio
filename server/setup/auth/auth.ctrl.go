@@ -11,8 +11,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 	"golang.org/x/crypto/bcrypt"
-	"mailserver/database/models"
-	"mailserver/libraries/common"
+	"inscriptio/database/models"
+	"inscriptio/libraries/common"
 )
 
 // User is alias for models.User

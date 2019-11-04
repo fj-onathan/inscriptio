@@ -2,8 +2,8 @@ package api
 
 import (
 	"github.com/gin-gonic/gin"
-	_ "mailserver/server/api/logs"
-	"mailserver/server/api/send"
+	_ "inscriptio/server/api/logs"
+	"inscriptio/server/api/send"
 	"reflect"
 )
 

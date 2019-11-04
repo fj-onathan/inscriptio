@@ -1,10 +1,10 @@
 package roles
 
 import (
-	"api-fuology/database/models/system"
-	"api-fuology/libraries/common"
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
+	"inscriptio/database/models"
+	"inscriptio/libraries/common"
 	"net/http"
 )
 
